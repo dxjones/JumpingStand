@@ -1,0 +1,1 @@
+% training.mCheckSystemConfig(0);oridemo7(2,0,0,1);

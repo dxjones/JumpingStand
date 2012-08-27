@@ -1,0 +1,1 @@
+% CreateCircularMask.m function mask = CreateCircularMask(Npixels,Diameter) ramp = ((1:Npixels) - ((1+Npixels)/2)) .^2;X2 = repmat(ramp,Npixels,1);Y2 = repmat(ramp',1,Npixels);R = sqrt(X2 + Y2); mask = max(0, min(1, ((Diameter+1)/2) - R ));

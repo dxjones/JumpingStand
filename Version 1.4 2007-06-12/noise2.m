@@ -1,0 +1,1 @@
+% noise2.mCheckSystemConfig(0);jumpingstandorientation(2,1,1,0);

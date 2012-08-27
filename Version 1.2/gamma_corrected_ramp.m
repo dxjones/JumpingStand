@@ -1,0 +1,1 @@
+% gamma_corrected_ramp% ...function g = gamma_corrected_ramp(gamma_exp, gamma_min, bits)g = zeros(1,256);for i = 0:255	g(i+1) = ((i/255) ^ (1/gamma_exp) * (1 - gamma_min) + gamma_min) * (2^bits - 1);end

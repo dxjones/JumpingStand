@@ -1,0 +1,1 @@
+% noise2.mCheckSystemConfig(0);oridemo7(2,1,1,0);

@@ -1,0 +1,1 @@
+% grating.mCheckSystemConfig(0);jumpingstandorientation(2,0,0,0);
